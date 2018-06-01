@@ -2,7 +2,7 @@
 
   This engine is created by building up on the theory presented in the [Hinge-Loss Markov Random Fields and Probabilistic Soft Logic](https://arxiv.org/abs/1505.04406). Even though
   the authors have already published a open-sourced PSL engine, our version offers several advantages:
-  - The engine is purely pythonic. Makes it easier to interface with many other NLP/Vision libraries.
+  - The engine is purely pythonic which makes it easier to interface with many other NLP/Vision libraries.
   - This engine is coded to directly integrate knowledge from ConceptNet and Word2vec. This is the engine that produced the required results in
   [Explicit Reasoning over End-to-End Neural Architectures for Visual Question Answering](https://arxiv.org/abs/1803.08896) which was presented
   in AAAI 2018.
@@ -67,7 +67,8 @@ Use:
 
 ## Disclaimer
 
-   If you want to augment or fix an issue, please raise an issue in the Issue tab of the project. However, as I am the sole contributor, please note the answers will be infrequent.
+   - If you want to augment or fix an issue, please raise an issue in the Issue tab of the project. However, as I am the sole contributor, please note the answers will be infrequent.
    Please feel free to clone and modify based on your needs though. Cheers!
+   - If you are looking for all the functionalities of PSL 2.0 in one place, please visit the [original groovy-based Gihub Repo](https://github.com/linqs/psl).
 
 
