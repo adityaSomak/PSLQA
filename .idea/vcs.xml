@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../../../ASU_Vision/gitlab/FigureQA-baseline" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../ASU_Vision/gitlab/figureqa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../ASU_Vision/gitlab/relational_network" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../ASU_Vision/gitlab/relational_network" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../TOOLS/DL_TOOLS/object_detection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../UMD_vision_integration/Image_Riddle/code" vcs="Git" />
+  </component>
+</project>

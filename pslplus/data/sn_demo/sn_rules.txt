@@ -1,0 +1,7 @@
+Network(UNIQUEID,UNIQUEID).
+Name(UNIQUEID,STRING).
+Knows(UNIQUEID,UNIQUEID).
+Fn_SameName(STRING,STRING).
+SamePerson(UNIQUEID,UNIQUEID) :-
+SamePerson(A,B) :: Network(A, snA) ^ Network(B, snB) ^ Name(A,X) ^ Name(B,Y) ^ Fn_SameName(X,Y).
+SamePerson(Friend1, Friend2) :: Network(A, snA) ^ Network(B, snB) ^ SamePerson(A,B) ^ Knows(A, Friend1) ^ Knows(B, Friend2).

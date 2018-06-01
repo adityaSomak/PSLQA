@@ -1,0 +1,28 @@
+# Question graph has-triplets
+# Answer graph has-triplets
+# Choose answer from a set of answers based on (Qg, Ag)
+
+word(STRING).
+has_q(STRING,STRING,STRING).
+has_story(STRING,STRING,STRING).
+Fn_SimilarPhrase(STRING,STRING).
+has_story_ans(STRING,STRING,STRING,STRING) :-
+ans_candidate(STRING) :-
+ans(STRING) :-
+
+# --- word(Z) could be the prior from VQA
+has_story_ans(Z,X,R1,Y1) :: word(Z) ^ has_story(X,R1,Y1) ^ Fn_SimilarPhrase(Z,X) ^ Fn_SimilarPhrase(Z,Y1).
+ans_candidate(Z) :: word(Z).
+ans_candidate(Z) :: word(Z) ^ has_q(Y,R,X) ^ has_story_ans(Z,X1,R1,Y1) ^ Fn_SimilarPhrase(R,R1) ^ Fn_SimilarPhrase(X1,X) ^ Fn_SimilarPhrase(Y,Y1).
+
+# --- Z,X,R occurs in story
+30.0, ans(Z) :: has_q(X,R,?x) ^ has_story(Z,R,X) ^ ans_candidate(Z).
+
+# --- X,R = same and the answer node has a similar node in Story Graph
+20.0, ans(Z) :: has_q(X,R,?x) ^ has_story(Z1,R,X) ^ ans_candidate(Z) ^ Fn_SimilarPhrase(Z,Z1).
+
+# --- Only X = same
+ans(Z) :: has_q(X,R,?x) ^ has_story(Z1,R1,X) ^ ans_candidate(Z) ^ Fn_SimilarPhrase(Z,Z1) ^ Fn_SimilarPhrase(R,R1).
+
+# --- Nothing is directly same
+ans(Z) :: has_q(X,R,?x) ^ has_story(Z1,R1,X1) ^ ans_candidate(Z) ^ Fn_SimilarPhrase(Z,Z1) ^ Fn_SimilarPhrase(R,R1) ^ Fn_SimilarPhrase(X1,X).

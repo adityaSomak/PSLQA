@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../ASU_Vision/gitlab/FigureQA-baseline/.idea/FigureQA-baseline.iml" filepath="$PROJECT_DIR$/../../../ASU_Vision/gitlab/FigureQA-baseline/.idea/FigureQA-baseline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PSLplus.iml" filepath="$PROJECT_DIR$/.idea/PSLplus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../ASU_Vision/gitlab/figureqa/.idea/figureqa.iml" filepath="$PROJECT_DIR$/../../../ASU_Vision/gitlab/figureqa/.idea/figureqa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../ASU_Vision/gitlab/knowledge_distillation/.idea/knowledge_distillation.iml" filepath="$PROJECT_DIR$/../../../ASU_Vision/gitlab/knowledge_distillation/.idea/knowledge_distillation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../TOOLS/DL_TOOLS/object_detection/.idea/object_detection.iml" filepath="$PROJECT_DIR$/../../../TOOLS/DL_TOOLS/object_detection/.idea/object_detection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../ASU_Vision/gitlab/relational_network/.idea/relational_network.iml" filepath="$PROJECT_DIR$/../../../ASU_Vision/gitlab/relational_network/.idea/relational_network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../ASU_Vision/gitlab/relational_network/.idea/relational_network_transitive_closure.iml" filepath="$PROJECT_DIR$/../../../ASU_Vision/gitlab/relational_network/.idea/relational_network_transitive_closure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../ASU_Vision/VQA/VQA_torch/vqa_engine/.idea/vqa_engine.iml" filepath="$PROJECT_DIR$/../../../ASU_Vision/VQA/VQA_torch/vqa_engine/.idea/vqa_engine.iml" />
+    </modules>
+  </component>
+</project>

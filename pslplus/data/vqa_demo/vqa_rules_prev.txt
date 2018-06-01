@@ -1,0 +1,17 @@
+# Question graph has-triplets
+# Answer graph has-triplets
+# Choose answer from a set of answers based on (Qg, Ag)
+
+word(STRING).
+has_q(STRING,STRING,STRING).
+has_story(STRING,STRING,STRING).
+Fn_SimilarPhrase(STRING,STRING).
+Fn_SimilarPhrases(STRING,STRING,STRING).
+has_story_ans(STRING,STRING,STRING,STRING) :-
+ans_candidate(STRING) :-
+ans(STRING) :-
+
+has_story_ans(Z,X,R1,Y1) :: word(Z) ^ has_story(X,R1,Y1) ^ Fn_SimilarPhrase(Z,X) ^ Fn_SimilarPhrase(Z,Y1).
+ans_candidate(Z) :: has_q(X,R,Y) ^ has_story_ans(Z,X,R1,Y1) ^ Fn_SimilarPhrase(R,R1) ^ Fn_SimilarPhrase(Y,Y1).
+ans_candidate(Z) :: has_q(X,R,Y) ^ has_story_ans(Z,X1,R1,Y) ^ Fn_SimilarPhrase(R,R1) ^ Fn_SimilarPhrase(X1,X).
+ans(Z) :: ans_candidate(Z) ^ has_q(X,R,?x) ^ Fn_SimilarPhrases(Z,R,X).

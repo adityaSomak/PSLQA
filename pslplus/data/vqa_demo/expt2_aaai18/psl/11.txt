@@ -1,0 +1,38 @@
+ans(church)	0.707835597435
+ans_candidate(church)	0.707835597435
+ans_candidate(barn)	0.522246386492
+ans(barn)	0.522246386492
+ans(tower)	0.518999224033
+ans_candidate(tower)	0.518999224033
+ans_candidate(brick)	0.518322405984
+ans(brick)	0.518322405984
+ans(mountain)	0.516981689858
+ans_candidate(mountain)	0.516981689858
+ans_candidate(clock tower)	0.516873265309
+ans(clock tower)	0.516873265309
+ans_candidate(train station)	0.516857907003
+ans(train station)	0.516857907003
+ans(bricks)	0.516663065702
+ans_candidate(bricks)	0.516663065702
+ans_candidate(house)	0.516533698003
+ans(house)	0.516533698003
+ans(big ben)	0.516412495492
+ans_candidate(big ben)	0.516412495492
+ans_candidate(old)	0.516207538034
+ans(old)	0.516207538034
+ans_candidate(lighthouse)	0.516086814756
+ans(lighthouse)	0.516086814756
+ans(school)	0.515714484106
+ans_candidate(school)	0.515714484106
+ans(hotel)	0.514626862201
+ans_candidate(hotel)	0.514626862201
+ans(clock)	0.514523743754
+ans_candidate(clock)	0.514523743754
+ans_candidate(england)	0.51441133995
+ans(england)	0.51441133995
+ans(apartment)	0.514409331102
+ans_candidate(apartment)	0.514409331102
+ans_candidate(restaurant)	0.513566249241
+ans(restaurant)	0.513566249241
+ans(london)	0.512727901544
+ans_candidate(london)	0.512727901544

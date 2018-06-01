@@ -1,0 +1,922 @@
+# building-4,what-1;building-4,background-7;background-7,what-1;
+has_q	building,is,?x	1.0
+has_q	building,is,what	1.0
+has_q	building,in,background	0.878330704857
+has_q	background,building,?x	1.0
+has_q	background,building,what	1.0
+word	barn
+word	palm tree
+word	clock tower
+word	kids
+word	wagon
+word	serve
+word	tusks
+word	bags
+word	iron
+word	pickles
+word	cross country
+word	m
+word	vertical
+word	pier
+word	surfer
+word	smile
+word	farm
+word	squares
+word	2013
+word	bamboo
+word	slow
+word	lion
+word	high
+word	cook
+word	yellow and green
+word	bikini
+word	white and green
+word	cookies
+word	egg
+word	france
+word	string
+word	in bowl
+word	ice
+word	shrimp
+word	sandwiches
+word	germany
+word	buildings
+word	nokia
+word	black & white
+word	brush
+word	ceiling
+word	vegetable
+word	cargo
+word	rural
+word	washington
+word	pig
+word	vanilla
+word	british airways
+word	cotton
+word	basil
+word	night time
+word	broken
+word	dodgers
+word	red sox
+word	pigeons
+word	volleyball
+word	tennis rackets
+word	sweater
+word	on grass
+word	n
+word	44
+word	orioles
+word	tag
+word	obama
+word	butterfly
+word	bus stop
+word	pot
+word	peach
+word	dark
+word	kid
+word	coca-cola
+word	piano
+word	blue and green
+word	stripe
+word	drink
+word	stars
+word	sprinkles
+word	left side
+word	army
+word	sofa
+word	waiting
+word	29
+word	pork
+word	2 feet
+word	crosswalk
+word	hats
+word	bulldog
+word	mac
+word	work
+word	right side
+word	wave
+word	fruits
+word	pickle
+word	maple
+word	tiger
+word	turquoise
+word	shoe
+word	chain
+word	3 feet
+word	sailboat
+word	blue and black
+word	ski lift
+word	pie
+word	soccer ball
+word	45
+word	garbage
+word	crane
+word	tattoo
+word	playing baseball
+word	horns
+word	bar
+word	fireplace
+word	on street
+word	eggs
+word	rail
+word	cone
+word	cell phones
+word	giants
+word	sunlight
+word	sauce
+word	ladder
+word	bun
+word	laying
+word	station
+word	bandana
+word	parasailing
+word	eagle
+word	pasta
+word	magnets
+word	softball
+word	cloth
+word	library
+word	yellow and white
+word	tall
+word	art
+word	nintendo wii
+word	a
+word	out
+word	on beach
+word	stairs
+word	california
+word	26
+word	pineapple
+word	bucket
+word	remote control
+word	corn
+word	hair
+word	snowy
+word	empty
+word	roman
+word	seagulls
+word	batting
+word	red and green
+word	watermelon
+word	log
+word	forest
+word	siamese
+word	motorbike
+word	controller
+word	in background
+word	hello kitty
+word	teddy bears
+word	daisy
+word	sausage
+word	scooter
+word	pepper
+word	bell
+word	on sidewalk
+word	statue
+word	bakery
+word	playing game
+word	moving
+word	green and yellow
+word	full
+word	light blue
+word	visor
+word	parsley
+word	center
+word	us
+word	outdoor
+word	on floor
+word	terrier
+word	tray
+word	potatoes
+word	mercedes
+word	catching
+word	dock
+word	sony
+word	shower
+word	tiles
+word	towels
+word	c
+word	pigeon
+word	african
+word	on counter
+word	phones
+word	cart
+word	blue and red
+word	krispy kreme
+word	dunkin donuts
+word	navy
+word	60
+word	chicago
+word	no parking
+word	wine glass
+word	suitcases
+word	united
+word	ramp
+word	lady
+word	hardwood
+word	toyota
+word	ceramic
+word	balance
+word	chef
+word	face
+word	game
+word	parking lot
+word	palm trees
+word	candle
+word	collie
+word	chain link
+word	commercial
+word	carriage
+word	low
+word	sugar
+word	monkey
+word	32
+word	juice
+word	starbucks
+word	door
+word	fire truck
+word	bracelet
+word	women
+word	italy
+word	skateboarder
+word	black and red
+word	store
+word	net
+word	straight
+word	55
+word	tulips
+word	cats
+word	onions
+word	owl
+word	bmw
+word	go
+word	indian
+word	wool
+word	basketball
+word	fork and knife
+word	one on left
+word	black white
+word	gray and white
+word	parade
+word	cutting
+word	t
+word	stick
+word	bow
+word	reflection
+word	on desk
+word	fishing
+word	38
+word	men
+word	wet
+word	at camera
+word	color
+word	racquet
+word	27
+word	children
+word	playing frisbee
+word	newspaper
+word	white and brown
+word	dining room
+word	fedex
+word	watching
+word	van
+word	cigarette
+word	plants
+word	ducks
+word	public
+word	west
+word	bacon
+word	paint
+word	b
+word	cowboy
+word	bull
+word	?
+word	above
+word	nowhere
+word	french
+word	ham
+word	possibly
+word	smiling
+word	lighthouse
+word	chopsticks
+word	yellow and red
+word	several
+word	mcdonald's
+word	dress
+word	german
+word	pug
+word	north
+word	headband
+word	behind
+word	downhill
+word	market
+word	napkin
+word	candles
+word	tabby
+word	cutting cake
+word	fries
+word	italian
+word	oak
+word	riding
+word	south
+word	headphones
+word	pen
+word	diamond
+word	honda
+word	lab
+word	wild
+word	military
+word	grapes
+word	asia
+word	wooden
+word	bicycles
+word	protection
+word	skateboards
+word	living
+word	india
+word	granite
+word	surf
+word	big
+word	desert
+word	cap
+word	kia
+word	goat
+word	ring
+word	nobody
+word	necklace
+word	trash can
+word	shelf
+word	water skiing
+word	nighttime
+word	spanish
+word	marble
+word	board
+word	polar
+word	turkey
+word	doughnuts
+word	television
+word	teal
+word	peppers
+word	soda
+word	35
+word	tower
+word	maroon
+word	pictures
+word	football
+word	stuffed animal
+word	fake
+word	to left
+word	subway
+word	polo
+word	jet
+word	ice cream
+word	shade
+word	america
+word	cross
+word	yellow and black
+word	to right
+word	off
+word	trash
+word	octagon
+word	strawberry
+word	posing
+word	parrot
+word	flying kites
+word	east
+word	lots
+word	clay
+word	w
+word	one on right
+word	rice
+word	ford
+word	sneakers
+word	blinds
+word	dirty
+word	decoration
+word	school
+word	yellow and blue
+word	swimming
+word	lamp
+word	warm
+word	bottom
+word	clean
+word	dogs
+word	orange and white
+word	texting
+word	good
+word	jacket
+word	on bed
+word	one way
+word	suit
+word	blender
+word	polar bear
+word	orange juice
+word	japanese
+word	passenger
+word	laying down
+word	beef
+word	skate park
+word	28
+word	boots
+word	electricity
+word	shorts
+word	p
+word	tennis court
+word	fan
+word	pillow
+word	no idea
+word	painting
+word	forward
+word	head
+word	strawberries
+word	fire
+word	united states
+word	unsure
+word	bikes
+word	lunch
+word	coke
+word	boats
+word	flip flops
+word	cutting board
+word	shirt
+word	cream
+word	japan
+word	toilet paper
+word	bottle
+word	duck
+word	ponytail
+word	collar
+word	away
+word	branch
+word	rainbow
+word	meat
+word	wii controller
+word	landing
+word	straw
+word	dusk
+word	22
+word	raining
+word	red and blue
+word	wind
+word	spinach
+word	parking
+word	19
+word	clothes
+word	cup
+word	tea
+word	stainless steel
+word	smoke
+word	samsung
+word	rug
+word	stove
+word	basket
+word	flag
+word	pepsi
+word	mustard
+word	back
+word	running
+word	oval
+word	shoes
+word	blue and yellow
+word	steam
+word	cement
+word	urban
+word	steel
+word	glove
+word	21
+word	tracks
+word	cars
+word	large
+word	real
+word	doughnut
+word	helmets
+word	short
+word	plant
+word	toy
+word	taking off
+word	talking
+word	calm
+word	english
+word	tennis racquet
+word	on plate
+word	flying
+word	white and red
+word	windows
+word	air
+word	olives
+word	seagull
+word	on left
+word	lemon
+word	carpet
+word	long
+word	soup
+word	23
+word	fridge
+word	gloves
+word	star
+word	on right
+word	hand
+word	red and yellow
+word	rope
+word	goggles
+word	indoors
+word	poles
+word	top
+word	train station
+word	sign
+word	green and white
+word	lake
+word	pole
+word	hot
+word	on ground
+word	parking meter
+word	dinner
+word	outdoors
+word	scarf
+word	office
+word	photographer
+word	taking picture
+word	purse
+word	tomatoes
+word	noon
+word	young
+word	counter
+word	shadow
+word	in water
+word	sunset
+word	safety
+word	resting
+word	wire
+word	delta
+word	lettuce
+word	hotel
+word	guitar
+word	in air
+word	sky
+word	white and blue
+word	40
+word	lights
+word	salad
+word	triangle
+word	mouse
+word	rectangle
+word	stop sign
+word	book
+word	wilson
+word	tennis ball
+word	canada
+word	blanket
+word	oven
+word	red and black
+word	house
+word	jumping
+word	on wall
+word	electric
+word	home
+word	front
+word	checkered
+word	bears
+word	hot dogs
+word	drinking
+word	roses
+word	wii remote
+word	24
+word	ski
+word	bridge
+word	bowl
+word	pitcher
+word	road
+word	tomato
+word	picture
+word	church
+word	clouds
+word	sandals
+word	can't tell
+word	keyboard
+word	surfboards
+word	american
+word	floor
+word	heart
+word	inside
+word	rainy
+word	pepperoni
+word	small
+word	light
+word	brushing teeth
+word	rock
+word	books
+word	building
+word	background
+word	bag
+word	field
+word	concrete
+word	18
+word	umbrellas
+word	motorcycles
+word	towel
+word	vase
+word	morning
+word	apples
+word	bricks
+word	rocks
+word	playing
+word	striped
+word	police
+word	sidewalk
+word	microwave
+word	closed
+word	milk
+word	on
+word	catcher
+word	bread
+word	50
+word	hay
+word	remote
+word	flower
+word	grazing
+word	30
+word	graffiti
+word	evening
+word	restaurant
+word	flying kite
+word	park
+word	child
+word	birds
+word	refrigerator
+word	computer
+word	giraffes
+word	summer
+word	brown and white
+word	jeans
+word	afternoon
+word	couch
+word	city
+word	ski poles
+word	no one
+word	mountain
+word	watch
+word	leaves
+word	25
+word	backpack
+word	oranges
+word	circle
+word	happy
+word	person
+word	fish
+word	carrot
+word	zebras
+word	racket
+word	people
+word	gold
+word	sun
+word	window
+word	not sure
+word	stone
+word	africa
+word	16
+word	daytime
+word	cooking
+word	spoon
+word	on table
+word	street
+word	luggage
+word	none
+word	clock
+word	plate
+word	chicken
+word	mirror
+word	usa
+word	dirt
+word	plaid
+word	asian
+word	ground
+word	paper
+word	tv
+word	breakfast
+word	donuts
+word	plastic
+word	overcast
+word	bicycle
+word	fire hydrant
+word	sleeping
+word	toothbrush
+word	square
+word	wetsuit
+word	elephants
+word	wall
+word	mountains
+word	sunglasses
+word	lot
+word	wedding
+word	walking
+word	cold
+word	fruit
+word	boy
+word	coffee
+word	truck
+word	snowboard
+word	don't know
+word	toilet
+word	14
+word	knife
+word	chinese
+word	round
+word	scissors
+word	cheese
+word	fall
+word	stripes
+word	horses
+word	palm
+word	tie
+word	ocean
+word	sandwich
+word	ball
+word	beige
+word	chair
+word	old
+word	suitcase
+word	zoo
+word	many
+word	skis
+word	girl
+word	carrots
+word	birthday
+word	airplane
+word	donut
+word	chocolate
+word	bike
+word	cows
+word	open
+word	sand
+word	nike
+word	clear
+word	13
+word	boat
+word	standing
+word	sitting
+word	car
+word	beer
+word	20
+word	glass
+word	teddy bear
+word	day
+word	blonde
+word	up
+word	15
+word	cloudy
+word	airport
+word	fork
+word	plane
+word	blue and white
+word	metal
+word	tile
+word	glasses
+word	bat
+word	bedroom
+word	red and white
+word	tennis racket
+word	unknown
+word	nothing
+word	fence
+word	christmas
+word	tree
+word	camera
+word	bed
+word	down
+word	bird
+word	11
+word	trees
+word	night
+word	hot dog
+word	outside
+word	maybe
+word	helmet
+word	cell phone
+word	kites
+word	snowboarding
+word	bus
+word	living room
+word	food
+word	cow
+word	male
+word	woman
+word	flowers
+word	bench
+word	hat
+word	laptop
+word	table
+word	bananas
+word	female
+word	brick
+word	tan
+word	zebra
+word	sunny
+word	soccer
+word	beach
+word	wine
+word	cake
+word	motorcycle
+word	12
+word	phone
+word	bear
+word	sheep
+word	eating
+word	umbrella
+word	banana
+word	horse
+word	silver
+word	apple
+word	9
+word	train
+word	stop
+word	winter
+word	man
+word	broccoli
+word	elephant
+word	purple
+word	10
+word	kite
+word	wii
+word	surfboard
+word	grass
+word	giraffe
+word	water
+word	surfing
+word	skateboard
+word	black and white
+word	snow
+word	dog
+word	skateboarding
+word	skiing
+word	cat
+word	8
+word	kitchen
+word	7
+word	pizza
+word	gray
+word	pink
+word	frisbee
+word	left
+word	right
+word	wood
+word	bathroom
+word	0
+word	orange
+word	6
+word	baseball
+word	tennis
+word	5
+word	brown
+word	yellow
+word	black
+word	green
+word	4
+word	blue
+word	red
+word	3
+word	white
+word	1
+word	2
+word	no
+word	yes
+has_story	horses-2,in standing,field-6	1.0
+has_story	horse-2,color,brown-1	1.0
+has_story	horse-2,with,mane-5	1.0
+has_story	mane-5,color,white-4	1.0
+has_story	horse-3,color,brown-2	1.0
+has_story	cross-2,on,top-4	1.0
+has_story	cross-2,on top of,building-7	1.0
+has_story	horses-2,in standing,field-6	1.0
+has_story	clouds-2,color,white-1	1.0
+has_story	clouds-2,in,sky-5	1.0
+has_story	sky-5,color,blue-4	1.0
+has_story	horse-3,color,brown-2	1.0
+has_story	horses-2,on,road-5	0.846028683434
+has_story	clouds-2,color,white-1	1.0
+has_story	clouds-2,in,sky-5	1.0
+has_story	sky-5,color,blue-4	1.0
+has_story	clouds-2,color,white-1	1.0
+has_story	clouds-2,in,sky-5	1.0
+has_story	sky-5,color,blue-4	1.0
+has_story	steeple-2,on,top-4	1.0
+has_story	steeple-2,on top of,building-7	1.0
+has_story	clouds-2,color,white-1	1.0
+has_story	clouds-2,in,sky-5	1.0
+has_story	sky-5,color,blue-4	1.0
+has_story	building-2,with,roof-5	1.0
+has_story	clouds-2,color,white-1	1.0
+has_story	clouds-2,in,sky-5	1.0
+has_story	sky-5,color,blue-4	1.0
+has_story	clouds-2,color,white-1	1.0
+has_story	clouds-2,in,sky-5	1.0
+has_story	sky-5,color,blue-4	1.0
+has_story	tower-2,on,building-5	1.0
+has_story	clouds-2,color,white-1	1.0
+has_story	clouds-2,in,sky-5	1.0
+has_story	sky-5,color,blue-4	1.0
+has_story	standing-2,in,grass-5	0.878330704857
+has_story	head-2,of,horse-5	1.0
+has_story	legs-2,of,horse-5	1.0
+has_story	horse-2,color,brown-1	1.0
+has_story	horse-2,with,legs-5	1.0
+has_story	legs-5,color,white-4	1.0

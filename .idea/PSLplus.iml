@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 2.7.6 virtualenv at ~/ENVs/pslqaenv" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="vqa_engine" />
+    <orderEntry type="module" module-name="relational_network_transitive_closure" />
+    <orderEntry type="module" module-name="relational_network" />
+    <orderEntry type="module" module-name="knowledge_distillation" />
+    <orderEntry type="module" module-name="object_detection" />
+    <orderEntry type="module" module-name="figureqa" />
+    <orderEntry type="module" module-name="FigureQA-baseline" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="projectConfiguration" value="Nosetests" />
+    <option name="PROJECT_TEST_RUNNER" value="Nosetests" />
+  </component>
+</module>
