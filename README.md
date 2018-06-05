@@ -52,7 +52,7 @@ Use:
    - `python main.py vqa -pslcode <rules-file> -datadir <psl_test_data_dir> -parentDir <pslDataRootDir> -qaData <qaData> -option infer`
    - If you want to run the demo on vqa, use the `test_pslqa.py` under the `vqa_demo/expt2_aaai18` directory:
         - `python2.7 test_pslqa <qatestdir> <pslDataRootDir> <answerFile> -stage 2/3 -split test/dev <startFrom>
-        - If you are able to run it successfully and want to produce desired results, play with the summation constraints (`S_ANS` and `S_CAND') in `core/pslground.py'. For example, use
+        - If you are able to run it successfully and want to produce desired results, play with the summation constraints (`S_ANS` and `S_CAND`) in `core/pslground.py`. For example, use
         10.0 for both for the data in expt2_aaai18.
 
 **To Run generic-models Inference from command-line**:
