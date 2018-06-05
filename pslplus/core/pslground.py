@@ -75,12 +75,14 @@ def infer(ruleBase, variableSuperDomainMap, predDB, nameToTemplateMap, iteration
 	# NOTE: without this, it gives good results for ans_candidate
 	#  20.0 and 10.0 gives good results
 	# {
-	m.addConstr(quicksum(answerCandVariables[c1] for c1 in answerCandVariables), GRB.LESS_EQUAL, 20.0)
+	m.addConstr(quicksum(answerCandVariables[c1] for c1 in answerCandVariables), GRB.LESS_EQUAL, S_ANS)
+	# NOTE: Use 10.0 to reproduce expt2 in aaai18
 	if len(answerVariables) > 0:
 		for c1 in answerVariables:
 			ansCandV = answerCandVariables[c1.replace("ans(","ans_candidate(")]
 			m.addConstr(ansCandV, GRB.GREATER_EQUAL, answerVariables[c1])
 		m.addConstr(quicksum(answerVariables[c1] for c1 in answerVariables), GRB.LESS_EQUAL, S_CAND)
+		# NOTE: Use 10.0 to reproduce expt2 in aaai18
 	# }
 	m.setObjective(objective)
 
