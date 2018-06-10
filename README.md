@@ -67,6 +67,11 @@ Use:
 **To Run weight-learning from command-line**:
    - Coming Soon
 
+## Author Affiliation:
+
+ The code is developed by Somak Aditya, when he was working as a Graduate Research Assistant in Prof. Chitta Baral's lab
+ at CIDSE, Arizona State Univerisity.
+ 
 ## Disclaimer
 
    - If you want to augment or fix an issue, please raise an issue in the Issue tab of the project. However, as I am the sole contributor, please note the answers will be infrequent.
