@@ -51,7 +51,13 @@
 Use:
    - `python main.py vqa -pslcode <rules-file> -datadir <psl_test_data_dir> -parentDir <pslDataRootDir> -qaData <qaData> -option infer`
    - If you want to run the demo on vqa, use the `test_pslqa.py` under the `vqa_demo/expt2_aaai18` directory:
-        - `python2.7 test_pslqa <qatestdir> <pslDataRootDir> <answerFile> -stage 2/3 -split test/dev <startFrom>
+        - `python2.7 test_pslqa <qatestdir> <pslDataRootDir> <answerFile> -stage 2/3 -split test/dev <startFrom>`
+        - Arguments: 
+          - `qatestdir`: Expects generated Json files from DenseCaptioning software for each image under the subdirectory "densecap/"
+          - `pslDataRootDir`: Stage 1 output will be stored here. Stage 2 output will be stored
+under "psl" subdirectory.
+          - `answerFile`: List of possible top 1000 answers - one in each line.
+        - Example: For running inference on dev split `python2.7 test_pslqa vqa_demo/expt2_aaai18/densecap vqa_demo/expt2_aaai18/ <answerFile> -stage 3 -split dev 0`
         - If you are able to run it successfully and want to produce desired results, play with the summation constraints (`S_ANS` and `S_CAND`) in `core/pslground.py`. For example, use
         10.0 for both for the data in expt2_aaai18.
 
